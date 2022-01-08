@@ -1,0 +1,8 @@
+# Virtual environments
+venv/
+
+# Pycharm project files
+.idea/
+
+# Python compiled objects
+__pycache__/
